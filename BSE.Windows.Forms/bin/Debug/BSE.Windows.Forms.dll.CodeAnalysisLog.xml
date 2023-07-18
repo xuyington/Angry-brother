@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="f:\program files\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="17.0">
+ <Namespaces>
+  <Namespace Name="BSE.Windows.Forms">
+   <Messages>
+    <Message Id="BSE" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+     <Issue Name="Namespace" Certainty="85" Level="Error">更正命名空间名称“BSE.Windows.Forms”中“BSE”的大小写，将其改为“Bse”。</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+ </Namespaces>
+ <Targets>
+  <Target Name="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll">
+   <Modules>
+    <Module Name="bse.windows.forms.dll">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">用强名称密钥对 'BSE.Windows.Forms.dll' 进行签名。</Issue>
+      </Message>
+      <Message Id="BSE" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+       <Issue Name="Assembly" Certainty="85" Level="Error">更正程序集名称 'BSE.Windows.Forms.dll' 中“BSE”的大小写，将其改为“Bse”。</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Warning">由于程序集 'BSE.Windows.Forms.dll' 包含基于 ResX 的资源文件，因此请使用 NeutralResourcesLanguage 特性来标记它，并指定该程序集内的资源所采用的语言。这会改进首次检索资源时的查找性能。</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="BSE.Windows.Forms">
+       <Types>
+        <Type Name="BasePanel" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#DrawImagesAndText(System.Drawing.Graphics,System.Drawing.Rectangle,System.Int32,System.Drawing.Rectangle,System.Drawing.Image,System.Windows.Forms.RightToLeft,System.Boolean,System.Boolean,System.Drawing.Image,System.Drawing.Color,System.Drawing.Rectangle&amp;,System.Boolean,System.Drawing.Image,System.Drawing.Color,System.Drawing.Rectangle&amp;,System.Drawing.Font,System.Drawing.Color,System.String)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="10#" TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1005">考虑使用不需要将 'rectangleImageClosePanel' 作为引用参数的设计。</Issue>
+            </Message>
+            <Message Id="14#" TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1005">考虑使用不需要将 'rectangleImageExandPanel' 作为引用参数的设计。</Issue>
+            </Message>
+            <Message Id="15" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1093">在外部可见方法 'BasePanel.DrawImagesAndText(Graphics, Rectangle, int, Rectangle, Image, RightToLeft, bool, bool, Image, Color, ref Rectangle, bool, Image, Color, ref Rectangle, Font, Color, string)' 中，请在使用参数“fontCaption”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DrawImagesAndText(System.Drawing.Graphics,System.Windows.Forms.DockStyle,System.Int32,System.Drawing.Rectangle,System.Drawing.Rectangle,System.Drawing.Rectangle,System.Drawing.Image,System.Windows.Forms.RightToLeft,System.Boolean,System.Drawing.Image,System.Drawing.Color,System.Drawing.Rectangle&amp;,System.Boolean,System.Boolean,System.Drawing.Image,System.Drawing.Color,System.Drawing.Rectangle&amp;,System.Drawing.Font,System.Drawing.Color,System.Drawing.Color,System.String)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="11#" TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1149">考虑使用不需要将 'rectangleImageClosePanel' 作为引用参数的设计。</Issue>
+            </Message>
+            <Message Id="16#" TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1149">考虑使用不需要将 'rectangleImageExandPanel' 作为引用参数的设计。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetBackgroundPath(System.Drawing.Rectangle,System.Int32)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1396">在方法 'BasePanel.GetBackgroundPath(Rectangle, int)' 中，'graphicsPath' 对象未按所有异常路径释放。请在对 'graphicsPath' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetFlatGradientBackBrush(System.Drawing.Rectangle,System.Drawing.Color,System.Drawing.Color,System.Boolean)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1425">在方法 'BasePanel.GetFlatGradientBackBrush(Rectangle, Color, Color, bool)' 中，'linearGradientBrush' 对象未按所有异常路径释放。请在对 'linearGradientBrush' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPath(System.Drawing.Rectangle,System.Int32)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1356">在方法 'BasePanel.GetPath(Rectangle, int)' 中，'graphicsPath' 对象未按所有异常路径释放。请在对 'graphicsPath' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetUpperBackgroundPath(System.Drawing.Rectangle,System.Int32)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1376">在方法 'BasePanel.GetUpperBackgroundPath(Rectangle, int)' 中，'graphicsPath' 对象未按所有异常路径释放。请在对 'graphicsPath' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnCaptionBarHoverStateChanged(System.Object,BSE.Windows.Forms.HoverStateChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="722">在外部可见方法 'BasePanel.OnCaptionBarHoverStateChanged(object, HoverStateChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnCloseIconHoverStateChanged(System.Object,BSE.Windows.Forms.HoverStateChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="753">在外部可见方法 'BasePanel.OnCloseIconHoverStateChanged(object, HoverStateChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnExpandIconHoverStateChanged(System.Object,BSE.Windows.Forms.HoverStateChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="661">在外部可见方法 'BasePanel.OnExpandIconHoverStateChanged(object, HoverStateChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnMouseMove(System.Windows.Forms.MouseEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="505">在外部可见方法 'BasePanel.OnMouseMove(MouseEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnMouseUp(System.Windows.Forms.MouseEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="489">在外部可见方法 'BasePanel.OnMouseUp(MouseEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPanelStyleChanged(System.Object,BSE.Windows.Forms.PanelStyleChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="613">在外部可见方法 'BasePanel.OnPanelStyleChanged(object, PanelStyleChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RectangleCloseIcon" Kind="Field" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotDeclareVisibleInstanceFields" Category="Microsoft.Design" CheckId="CA1051" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+             <Issue Certainty="90" Level="Error">由于字段 'BasePanel.RectangleCloseIcon' 在其声明类型的外部可见，因此，请将它的可访问性改为私有，并添加一个与该字段当前的可访问性相同的属性以提供对该属性的访问。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RectangleExpandIcon" Kind="Field" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotDeclareVisibleInstanceFields" Category="Microsoft.Design" CheckId="CA1051" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="Breaking">
+             <Issue Certainty="90" Level="Error">由于字段 'BasePanel.RectangleExpandIcon' 在其声明类型的外部可见，因此，请将它的可访问性改为私有，并添加一个与该字段当前的可访问性相同的属性以提供对该属性的访问。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RenderButtonBackground(System.Drawing.Graphics,System.Drawing.Rectangle,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1297">在外部可见方法 'BasePanel.RenderButtonBackground(Graphics, Rectangle, Color, Color, Color)' 中，请在使用参数“graphics”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RenderFlatButtonBackground(System.Drawing.Graphics,System.Drawing.Rectangle,System.Drawing.Color,System.Drawing.Color,System.Boolean)" Kind="Method" Static="True" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="BasePanel.cs" Line="1339">在外部可见方法 'BasePanel.RenderFlatButtonBackground(Graphics, Rectangle, Color, Color, bool)' 中，请在使用参数“graphics”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="BseRenderer" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.cctor()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="InitializeReferenceTypeStaticFieldsInline" Category="Microsoft.Performance" CheckId="CA1810" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="CriticalWarning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="23">声明 'BseRenderer' 中的静态字段时应初始化所有这些字段，并移除显式静态构造函数。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetBackgroundPath(System.Drawing.Rectangle,System.Int32)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="654">在方法 'BseRenderer.GetBackgroundPath(Rectangle, int)' 中，'graphicsPath' 对象未按所有异常路径释放。请在对 'graphicsPath' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderArrow(System.Windows.Forms.ToolStripArrowRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="69">在外部可见方法 'BseRenderer.OnRenderArrow(ToolStripArrowRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="102">在外部可见方法 'BseRenderer.OnRenderButtonBackground(ToolStripItemRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderDropDownButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="158">在外部可见方法 'BseRenderer.OnRenderDropDownButtonBackground(ToolStripItemRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderImageMargin(System.Windows.Forms.ToolStripRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="611">在外部可见方法 'BseRenderer.OnRenderImageMargin(ToolStripRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderItemText(System.Windows.Forms.ToolStripItemTextRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="337">在外部可见方法 'BseRenderer.OnRenderItemText(ToolStripItemTextRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderMenuItemBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="287">在外部可见方法 'BseRenderer.OnRenderMenuItemBackground(ToolStripItemRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderOverflowButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="397">在外部可见方法 'BseRenderer.OnRenderOverflowButtonBackground(ToolStripItemRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderSeparator(System.Windows.Forms.ToolStripSeparatorRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="445">在外部可见方法 'BseRenderer.OnRenderSeparator(ToolStripSeparatorRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderSplitButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="208">在外部可见方法 'BseRenderer.OnRenderSplitButtonBackground(ToolStripItemRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderStatusStripSizingGrip(System.Windows.Forms.ToolStripRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="455">在外部可见方法 'BseRenderer.OnRenderStatusStripSizingGrip(ToolStripRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderToolStripBackground(System.Windows.Forms.ToolStripRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="504">在外部可见方法 'BseRenderer.OnRenderToolStripBackground(ToolStripRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderToolStripContentPanelBackground(System.Windows.Forms.ToolStripContentPanelRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="BseRenderer.cs" Line="377">在外部可见方法 'BseRenderer.OnRenderToolStripContentPanelBackground(ToolStripContentPanelRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ColorTableBlack" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.ProfessionalColorTable+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="ColorTableBlack.cs" Line="41">在外部可见方法 'ColorTableBlack.InitColors(Dictionary&lt;ProfessionalColorTable.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ColorTableBlue" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.ProfessionalColorTable+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="ColorTableBlue.cs" Line="41">在外部可见方法 'ColorTableBlue.InitColors(Dictionary&lt;ProfessionalColorTable.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Office2007BlackColorTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.ProfessionalColorTable+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007BlackColorTable.cs" Line="40">在外部可见方法 'Office2007BlackColorTable.InitColors(Dictionary&lt;ProfessionalColorTable.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Office2007BlueColorTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.ProfessionalColorTable+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007BlueColorTable.cs" Line="40">在外部可见方法 'Office2007BlueColorTable.InitColors(Dictionary&lt;ProfessionalColorTable.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Office2007Renderer" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.cctor()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="InitializeReferenceTypeStaticFieldsInline" Category="Microsoft.Performance" CheckId="CA1810" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="CriticalWarning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="37">声明 'Office2007Renderer' 中的静态字段时应初始化所有这些字段，并移除显式静态构造函数。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderArrow(System.Windows.Forms.ToolStripArrowRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="74">在外部可见方法 'Office2007Renderer.OnRenderArrow(ToolStripArrowRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderImageMargin(System.Windows.Forms.ToolStripRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="206">在外部可见方法 'Office2007Renderer.OnRenderImageMargin(ToolStripRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderItemText(System.Windows.Forms.ToolStripItemTextRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="103">在外部可见方法 'Office2007Renderer.OnRenderItemText(ToolStripItemTextRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderSeparator(System.Windows.Forms.ToolStripSeparatorRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="153">在外部可见方法 'Office2007Renderer.OnRenderSeparator(ToolStripSeparatorRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderToolStripBackground(System.Windows.Forms.ToolStripRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="169">在外部可见方法 'Office2007Renderer.OnRenderToolStripBackground(ToolStripRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnRenderToolStripContentPanelBackground(System.Windows.Forms.ToolStripContentPanelRenderEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007Renderer.cs" Line="132">在外部可见方法 'Office2007Renderer.OnRenderToolStripContentPanelBackground(ToolStripContentPanelRenderEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Office2007SilverColorTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.ProfessionalColorTable+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\Renderer" File="Office2007SilverColorTable.cs" Line="39">在外部可见方法 'Office2007SilverColorTable.InitColors(Dictionary&lt;ProfessionalColorTable.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Panel" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetPanelIconBackground(System.Drawing.Graphics,System.Drawing.Rectangle,System.Drawing.Color,System.Drawing.Color)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="Panel.cs" Line="624">在方法 'Panel.GetPanelIconBackground(Graphics, Rectangle, Color, Color)' 中，'image' 对象未按所有异常路径释放。请在对 'image' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPaint(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="Panel.cs" Line="331">在外部可见方法 'Panel.OnPaint(PaintEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPaintBackground(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="Panel.cs" Line="311">在外部可见方法 'Panel.OnPaintBackground(PaintEventArgs)' 中，请在使用参数“pevent”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="PanelColorsBse" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.PanelColors+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="PanelColorsBse.cs" Line="56">在外部可见方法 'PanelColorsBse.InitColors(Dictionary&lt;PanelColors.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="PanelColorsOffice" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitColors(System.Collections.Generic.Dictionary`2&lt;BSE.Windows.Forms.PanelColors+KnownColors,System.Drawing.Color&gt;)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="PanelColorsOffice.cs" Line="56">在外部可见方法 'PanelColorsOffice.InitColors(Dictionary&lt;PanelColors.KnownColors, Color&gt;)' 中，请在使用参数“rgbTable”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ProgressBar" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetBackgroundPath(System.Drawing.Rectangle,System.Int32)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ProgressBar.cs" Line="408">在方法 'ProgressBar.GetBackgroundPath(Rectangle, int)' 中，'graphicsPath' 对象未按所有异常路径释放。请在对 'graphicsPath' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetGradientBackBrush(System.Drawing.Rectangle,System.Drawing.Color)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ProgressBar.cs" Line="449">在方法 'ProgressBar.GetGradientBackBrush(Rectangle, Color)' 中，'linearGradientBrush' 对象未按所有异常路径释放。请在对 'linearGradientBrush' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetValuePath(System.Drawing.Rectangle,System.Windows.Forms.RightToLeft,System.Int32)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ProgressBar.cs" Line="423">在方法 'ProgressBar.GetValuePath(Rectangle, RightToLeft, int)' 中，'graphicsPath' 对象未按所有异常路径释放。请在对 'graphicsPath' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Maximum" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#set_Maximum(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="InstantiateArgumentExceptionsCorrectly" Category="Microsoft.Usage" CheckId="CA2208" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+               <Issue Name="IncorrectParameterName" Certainty="95" Level="CriticalError" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ProgressBar.cs" Line="145">方法 'ProgressBar.Maximum.set(int)' 将“Maximum”作为参数 'paramName' 传递给构造函数 'ArgumentOutOfRangeException'。请将此参数替换为该方法的某个参数名。请注意，所提供的参数名的大小写应与方法中声明的大小写完全一致。</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Minimum" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#set_Minimum(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="InstantiateArgumentExceptionsCorrectly" Category="Microsoft.Usage" CheckId="CA2208" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+               <Issue Name="IncorrectParameterName" Certainty="95" Level="CriticalError" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ProgressBar.cs" Line="179">方法 'ProgressBar.Minimum.set(int)' 将“Minimum”作为参数 'paramName' 传递给构造函数 'ArgumentOutOfRangeException'。请将此参数替换为该方法的某个参数名。请注意，所提供的参数名的大小写应与方法中声明的大小写完全一致。</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#OnPaint(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ProgressBar.cs" Line="249">在外部可见方法 'ProgressBar.OnPaint(PaintEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ToolStripProgressBar" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ToolStripProgressBar.cs" Line="206">在方法 'ToolStripProgressBar.ToolStripProgressBar()' 中，请在对 'ToolStripProgressBar.CreateControlInstance()' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#CreateControlInstance()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\ProgressBar" File="ToolStripProgressBar.cs" Line="229">在方法 'ToolStripProgressBar.CreateControlInstance()' 中，'progressBar' 对象未按所有异常路径释放。请在对 'progressBar' 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="XPanderPanel" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#DrawCaptionbar(System.Drawing.Graphics,System.Boolean,System.Boolean,BSE.Windows.Forms.PanelStyle)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="colorInnerBorder" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="455">'XPanderPanel.DrawCaptionbar(Graphics, bool, bool, PanelStyle)' 声明类型为 'Color' 的变量 'colorInnerBorder'，但从未使用过该变量或只对它进行过赋值。请使用此变量或将它移除。</Issue>
+            </Message>
+            <Message Id="bShowBorder" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="372">从未用过 'XPanderPanel.DrawCaptionbar(Graphics, bool, bool, PanelStyle)' 的参数 'bShowBorder'。请移除该参数或在方法主体中使用它。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnMouseUp(System.Windows.Forms.MouseEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="299">在外部可见方法 'XPanderPanel.OnMouseUp(MouseEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPaint(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="borderColor" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="250">'XPanderPanel.OnPaint(PaintEventArgs)' 声明类型为 'Color' 的变量 'borderColor'，但从未使用过该变量或只对它进行过赋值。请使用此变量或将它移除。</Issue>
+            </Message>
+            <Message Id="borderRectangle" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="251">'XPanderPanel.OnPaint(PaintEventArgs)' 声明类型为 'Rectangle' 的变量 'borderRectangle'，但从未使用过该变量或只对它进行过赋值。请使用此变量或将它移除。</Issue>
+            </Message>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="243">在外部可见方法 'XPanderPanel.OnPaint(PaintEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPaintBackground(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="228">在外部可见方法 'XPanderPanel.OnPaintBackground(PaintEventArgs)' 中，请在使用参数“pevent”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPanelExpanding(System.Object,BSE.Windows.Forms.XPanderStateChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="272">在外部可见方法 'XPanderPanel.OnPanelExpanding(object, XPanderStateChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="XPanderPanelDesigner" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#OnPaintAdornments(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="False">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="806">在外部可见方法 'XPanderPanelDesigner.OnPaintAdornments(PaintEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#PostFilterProperties(System.Collections.IDictionary)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="False">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanel.cs" Line="820">在外部可见方法 'XPanderPanelDesigner.PostFilterProperties(IDictionary)' 中，请在使用参数“properties”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="XPanderPanelList" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#OnColorSchemeChanged(System.Object,BSE.Windows.Forms.ColorSchemeChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanelList.cs" Line="554">在外部可见方法 'XPanderPanelList.OnColorSchemeChanged(object, ColorSchemeChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnControlAdded(System.Windows.Forms.ControlEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanelList.cs" Line="408">在外部可见方法 'XPanderPanelList.OnControlAdded(ControlEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnControlRemoved(System.Windows.Forms.ControlEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanelList.cs" Line="457">在外部可见方法 'XPanderPanelList.OnControlRemoved(ControlEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPaintBackground(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanelList.cs" Line="397">在外部可见方法 'XPanderPanelList.OnPaintBackground(PaintEventArgs)' 中，请在使用参数“pevent”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#OnPanelStyleChanged(System.Object,BSE.Windows.Forms.PanelStyleChangeEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="1" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanelList.cs" Line="512">在外部可见方法 'XPanderPanelList.OnPanelStyleChanged(object, PanelStyleChangeEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="XPanderPanelListDesigner" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#OnPaintAdornments(System.Windows.Forms.PaintEventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="False">
+           <Messages>
+            <Message Id="0" TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2023-05-09 09:33:05Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\BSE.Windows.Forms\XPander" File="XPanderPanelList.cs" Line="758">在外部可见方法 'XPanderPanelListDesigner.OnPaintAdornments(PaintEventArgs)' 中，请在使用参数“e”之前先对其进行验证。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>程序集应具有有效的强名称</Name>
+   <Description>程序集没有强名称，强名称无效，或者强名称只有经过计算机配置后才有效。不应部署处于这种状态的程序集。出现这种情况最常见原因有: 1) 对程序集进行签名后，修改了该程序集的内容；2) 签名过程失败；3) 延迟了程序集签名；4) 存在一个允许检查通过(原本不应通过)的注册表项。</Description>
+   <Resolution Name="NoStrongName">用强名称密钥对 {0} 进行签名。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotDeclareVisibleInstanceFields" Category="Microsoft.Design" CheckId="CA1051">
+   <Name>不要声明可见实例字段</Name>
+   <Description>在其声明类型的外部可见的实例字段会限制您更改这些数据项的实现详细信息的能力。请改用属性。属性不会降低可用性或性能，并且能够提供灵活性，因为它们隐藏了基础数据的实现详细信息。</Description>
+   <Resolution Name="Default">由于字段 {0} 在其声明类型的外部可见，因此，请将它的可访问性改为私有，并添加一个与该字段当前的可访问性相同的属性以提供对该属性的访问。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182141.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotPassTypesByReference" Category="Microsoft.Design" CheckId="CA1045">
+   <Name>不要通过引用来传递类型</Name>
+   <Description>虽然有时允许使用引用参数，但频繁的使用这些参数则表示设计没有遵守托管代码的设计原则。</Description>
+   <Resolution Name="Default">考虑使用不需要将 {0} 作为引用参数的设计。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182146.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="designrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>标识符的大小写应当正确</Name>
+   <Description>类型、命名空间和成员标识符应采用 Pascal 大小写格式。参数标识符应采用 Camel 大小写格式。这些标识符内由两个字母组成的首字母缩略词应全部大写，例如，应采用 System.IO，而不是 System.Io。由三个或更多个字母组成的首字母缩略词应采用 Pascal 大小写格式，例如，应采用 System.Xml，而不是 System.XML。Pascal 大小写格式约定每个单词的首字母大写，如 BackColor。Camel 大小写格式约定第一个单词的首字母小写，所有后续单词的首字母都大写，如 backgroundColor。尽管有些由两个字母组成的首字母缩略词习惯采用不完全大写形式，但不能因此而排斥此规则。例如，“DbConnection”很常见，但并不正确，应采用 DBConnection。为了与现有的非托管符号方案兼容，可能需要违反此规则。但一般来说，这些符号在使用它们的程序集之外不可见。</Description>
+   <Resolution Name="Assembly">更正程序集名称 {1} 中“{0}”的大小写，将其改为“{2}”。</Resolution>
+   <Resolution Name="Namespace">更正命名空间名称“{1}”中“{0}”的大小写，将其改为“{2}”。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="InitializeReferenceTypeStaticFieldsInline" Category="Microsoft.Performance" CheckId="CA1810">
+   <Name>以内联方式初始化引用类型的静态字段</Name>
+   <Description>声明静态字段时，应初始化这些字段。初始化显式静态构造函数中的静态数据将导致代码性能较差。</Description>
+   <Resolution Name="Default">声明 {0} 中的静态字段时应初始化所有这些字段，并移除显式静态构造函数。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182275.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">CriticalWarning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="InstantiateArgumentExceptionsCorrectly" Category="Microsoft.Usage" CheckId="CA2208">
+   <Name>正确实例化参数异常</Name>
+   <Description>传递给 ArgumentException 及其派生类型的构造函数的字符串参数应该是正确的。与 ArgumentException 相比，派生自 ArgumentException 的类型在 message 和 paramName 参数方面具有不一致的构造函数重载。</Description>
+   <Resolution Name="IncorrectParameterName">方法 {0} 将“{1}”作为参数 {2} 传递给构造函数 {3}。请将此参数替换为该方法的某个参数名。请注意，所提供的参数名的大小写应与方法中声明的大小写完全一致。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182347.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824">
+   <Name>用 NeutralResourcesLanguageAttribute 标记程序集</Name>
+   <Description>NeutralResourcesLanguage 特性将用来呈现非特定区域性的程序集资源的语言通知给 ResourceManager。在查找与非特定区域性语言具有相同区域性的资源时，ResourceManager 会自动使用位于主程序集内的资源，而不是搜索具有当前线程的当前用户界面区域性的附属程序集。这会改进所加载的第一个资源的查找性能，并缩小工作集。</Description>
+   <Resolution Name="Default">由于程序集 {0} 包含基于 ResX 的资源文件，因此请使用 NeutralResourcesLanguage 特性来标记它，并指定该程序集内的资源所采用的语言。这会改进首次检索资源时的查找性能。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb385967.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804">
+   <Name>移除未使用的局部变量</Name>
+   <Description>移除方法实现中未使用过的或只赋过值的局部变量。</Description>
+   <Resolution Name="Default">{0} 声明类型为 {2} 的变量 {1}，但从未使用过该变量或只对它进行过赋值。请使用此变量或将它移除。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182278.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801">
+   <Name>检查未使用的参数</Name>
+   <Description>检查在非虚方法的方法主体中未使用的参数，以确保不存在应该访问这些参数的情况。未使用的参数会带来维护和性能开销。有时，与该规则冲突可能说明方法中存在实现 Bug，即，该参数实际上应该已在方法主体中使用了。如果该参数由于向后兼容性而必须存在，请忽略关于此规则的警告。</Description>
+   <Resolution Name="Default">从未用过 {1} 的参数 {0}。请移除该参数或在方法主体中使用它。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182268.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="丢失范围之前释放对象" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>丢失范围之前释放对象</Name>
+   <Description>如果在对某个可释放对象的所有引用超出范围之前未显式释放该对象，则当垃圾回收器运行该对象的终结器时，会在某个不确定时间释放该对象。由于可能会发生阻止该对象的终结器运行的意外事件，因此应改为显式释放该对象。</Description>
+   <Resolution Name="ExceptionEdge">在方法 {0} 中，{1} 对象未按所有异常路径释放。请在对 {1} 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Resolution>
+   <Resolution Name="NonExceptionEdge">在方法 {0} 中，请在对 {1} 对象的所有引用超出范围之前，对该对象调用 System.IDisposable.Dispose。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+  <Rule TypeName="验证公共方法的参数" Category="Microsoft.Design" CheckId="CA1062">
+   <Name>验证公共方法的参数</Name>
+   <Description>应检查传递给外部可见方法的所有引用参数是否为 Null (在 VB 中为 Nothing)。如果适用，在参数为 null 时，引发 System.ArgumentNullException。</Description>
+   <Resolution Name="Default">在外部可见方法 {0} 中，请在使用参数“{1}”之前先对其进行验证。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182182.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">类别</String>
+  <String Key="Certainty">确定性</String>
+  <String Key="CollapseAll">全部折叠</String>
+  <String Key="CheckId">检查 ID</String>
+  <String Key="Error">错误</String>
+  <String Key="Errors">错误</String>
+  <String Key="ExpandAll">全部展开</String>
+  <String Key="Help">帮助</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">消息</String>
+  <String Key="LocationNotStoredInPdb">[位置未存储在 Pdb 中]</String>
+  <String Key="Project">项目</String>
+  <String Key="Resolution">解析</String>
+  <String Key="Rule">规则</String>
+  <String Key="RuleFile">规则文件</String>
+  <String Key="RuleDescription">规则说明</String>
+  <String Key="Source">源</String>
+  <String Key="Status">状态</String>
+  <String Key="Target">目标</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">代码分析报告</String>
+ </Localized>
+</FxCopReport>

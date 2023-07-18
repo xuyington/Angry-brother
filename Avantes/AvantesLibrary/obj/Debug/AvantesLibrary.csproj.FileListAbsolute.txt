@@ -1,0 +1,150 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\AvantesLibrary\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\AvantesLibrary\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\AvantesLibrary\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\AvantesLibrary\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\AvantesLibrary\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\lenovo\Desktop\Avantes_Test\AvantesLibrary\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\lenovo\Desktop\Avantes_Test\AvantesLibrary\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\lenovo\Desktop\Avantes_Test\AvantesLibrary\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Avantes_Test\AvantesLibrary\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\lenovo\Desktop\Avantes_Test\AvantesLibrary\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+H:\LIBS1.05P - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+H:\LIBS1.05P - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+H:\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+H:\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+M:\LIBS1.05P - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+M:\LIBS1.05P - 副本\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+M:\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+M:\LIBS1.05P - 副本\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+H:\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+H:\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+H:\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+H:\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\AAA\Desktop\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\AAA\Desktop\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\AAA\Desktop\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\AAA\Desktop\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+M:\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+M:\LIBS1.10\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+M:\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+M:\LIBS1.10\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+G:\LIBS2.4\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+G:\LIBS2.4\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+G:\LIBS2.4\Avantes\AvantesLibrary\obj\Debug\ResolveAssemblyReference.cache
+G:\LIBS2.4\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+G:\LIBS2.4\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+E:\软件资料\LIBS2.4完成提交版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+E:\软件资料\LIBS2.4完成提交版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+E:\软件资料\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+E:\软件资料\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csproj.CoreCompileInputs.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Avantes\AvantesLibrary\bin\Debug\AvantesLibrary.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csproj.AssemblyReference.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.csproj.CoreCompileInputs.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Avantes\AvantesLibrary\obj\Debug\AvantesLibrary.pdb

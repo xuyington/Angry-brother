@@ -1,0 +1,882 @@
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\LIBS.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\LIBS.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\x64\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\x86\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\LIBS.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\LIBS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\BSE.Windows.Forms.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DelayLib.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\JunoLib.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Laser.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\OxyPlot.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\PylonC.NETSupportLibrary.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Spectrometer.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\XYZ.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\NETOmniDriver.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Laser.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Spectrometer.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\XYZ.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\BSE.Windows.Forms.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\BSE.Windows.Forms.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DelayLib.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\JunoLib.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\OxyPlot.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\OxyPlot.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\LIBS.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\LIBS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\LIBS.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\LIBS.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\LIBS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\DelayLib.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\JunoLib.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\Laser.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\PylonC.NETSupportLibrary.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\Spectrometer.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\XYZ.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\NETOmniDriver.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\Laser.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\Spectrometer.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\XYZ.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\DelayLib.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\JunoLib.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\LIBS.exe
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\JunoLib.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\Laser.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\Spectrometer.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\XYZ.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\NETOmniDriver.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\JunoLib.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\Laser.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\Spectrometer.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\XYZ.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.xml
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\LIBS.exe
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\JunoLib.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\Laser.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\Spectrometer.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\XYZ.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\NETOmniDriver.dll
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\JunoLib.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\Laser.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\Spectrometer.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\XYZ.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\OxyPlot.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\OxyPlot.xml
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\LIBS1.00\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\LIBS.exe.config
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\JunoLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\Laser.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\Spectrometer.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\XYZ.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\NETOmniDriver.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\JunoLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\Laser.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\Spectrometer.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\bin\Debug\XYZ.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\LIBS.exe.config
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\JunoLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\Laser.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\Spectrometer.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\XYZ.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\NETOmniDriver.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\JunoLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\Laser.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\Spectrometer.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\XYZ.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\LIBS\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\LIBS.exe.config
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\obj\x86\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\obj\x86\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\LIBS\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\LIBS.exe.config
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\obj\x86\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\obj\x86\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\LIBS.exe.config
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\LIBS.exe
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\LIBS.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\AvantesLibrary.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\AvantesLibrary.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\bin\Debug\LIBS.exe.config
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.exe
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\LIBS\obj\x86\Debug\LIBS.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.exe.config
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.exe
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.exe
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\AvantesLibrary.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\DelayLib.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\Settings.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\AvantesLibrary.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\DelayLib.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\bin\Debug\Settings.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.exe.config
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.exe
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.pdb
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\x64\SQLite.Interop.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\x86\SQLite.Interop.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.exe
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.pdb
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\AvantesLibrary.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\DelayLib.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\Settings.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\System.Data.SQLite.dll
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\AvantesLibrary.pdb
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.xml
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\DelayLib.pdb
+H:\LIBS1.05P - 副本\LIBS\bin\Debug\Settings.pdb
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.exe.config
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.exe
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.pdb
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\x64\SQLite.Interop.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\x86\SQLite.Interop.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.exe
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\LIBS.pdb
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\AvantesLibrary.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\DelayLib.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\Settings.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\System.Data.SQLite.dll
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\AvantesLibrary.pdb
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\BSE.Windows.Forms.xml
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\DelayLib.pdb
+M:\LIBS1.05P - 副本\LIBS\bin\Debug\Settings.pdb
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\LIBS1.05P - 副本\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\LIBS.exe
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\LIBS.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\LIBS\bin\Debug\Settings.pdb
+H:\LIBS1.10\LIBS\bin\Debug\LIBS.exe.config
+H:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.exe
+H:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.pdb
+H:\LIBS1.10\LIBS\bin\Debug\x64\SQLite.Interop.dll
+H:\LIBS1.10\LIBS\bin\Debug\x86\SQLite.Interop.dll
+H:\LIBS1.10\LIBS\bin\Debug\LIBS.exe
+H:\LIBS1.10\LIBS\bin\Debug\LIBS.pdb
+H:\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.dll
+H:\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.dll
+H:\LIBS1.10\LIBS\bin\Debug\DelayLib.dll
+H:\LIBS1.10\LIBS\bin\Debug\Settings.dll
+H:\LIBS1.10\LIBS\bin\Debug\System.Data.SQLite.dll
+H:\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.pdb
+H:\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+H:\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.xml
+H:\LIBS1.10\LIBS\bin\Debug\DelayLib.pdb
+H:\LIBS1.10\LIBS\bin\Debug\Settings.pdb
+H:\LIBS1.10\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+H:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+H:\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\LIBS.exe
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\LIBS.pdb
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\DelayLib.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\Settings.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\bin\Debug\Settings.pdb
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AAA\Desktop\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\LIBS1.10\LIBS\bin\Debug\LIBS.exe.config
+M:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.exe
+M:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.pdb
+M:\LIBS1.10\LIBS\bin\Debug\x64\SQLite.Interop.dll
+M:\LIBS1.10\LIBS\bin\Debug\x86\SQLite.Interop.dll
+M:\LIBS1.10\LIBS\bin\Debug\LIBS.exe
+M:\LIBS1.10\LIBS\bin\Debug\LIBS.pdb
+M:\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.dll
+M:\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.dll
+M:\LIBS1.10\LIBS\bin\Debug\DelayLib.dll
+M:\LIBS1.10\LIBS\bin\Debug\Settings.dll
+M:\LIBS1.10\LIBS\bin\Debug\System.Data.SQLite.dll
+M:\LIBS1.10\LIBS\bin\Debug\AvantesLibrary.pdb
+M:\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+M:\LIBS1.10\LIBS\bin\Debug\BSE.Windows.Forms.xml
+M:\LIBS1.10\LIBS\bin\Debug\DelayLib.pdb
+M:\LIBS1.10\LIBS\bin\Debug\Settings.pdb
+M:\LIBS1.10\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+M:\LIBS1.10\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+M:\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\LIBS1.10\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\LIBS.exe
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\LIBS.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\LIBS\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\LIBS.exe
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\LIBS.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\LIBS.exe
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\Settings.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\bin\Debug\Settings.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\LIBS.exe
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\Settings.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\bin\Debug\Settings.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\LIBS.exe.config
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.exe
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\x64\SQLite.Interop.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\x86\SQLite.Interop.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\LIBS.exe
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\LIBS.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\DelayLib.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\Settings.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\System.Data.SQLite.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\AvantesLibrary.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\BSE.Windows.Forms.xml
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\DelayLib.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\bin\Debug\Settings.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+G:\LIBS 1.251.00p\LIBS\bin\Debug\LIBS.exe.config
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.exe
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.pdb
+G:\LIBS 1.251.00p\LIBS\bin\Debug\x64\SQLite.Interop.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\x86\SQLite.Interop.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\LIBS.exe
+G:\LIBS 1.251.00p\LIBS\bin\Debug\LIBS.pdb
+G:\LIBS 1.251.00p\LIBS\bin\Debug\AvantesLibrary.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\BSE.Windows.Forms.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\DelayLib.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\Settings.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\System.Data.SQLite.dll
+G:\LIBS 1.251.00p\LIBS\bin\Debug\AvantesLibrary.pdb
+G:\LIBS 1.251.00p\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+G:\LIBS 1.251.00p\LIBS\bin\Debug\BSE.Windows.Forms.xml
+G:\LIBS 1.251.00p\LIBS\bin\Debug\DelayLib.pdb
+G:\LIBS 1.251.00p\LIBS\bin\Debug\Settings.pdb
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LIBS 1.251.00p\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LIBS2.4\LIBS\bin\Debug\LIBS.exe.config
+G:\LIBS2.4\LIBS\obj\x86\Debug\LIBS.exe
+G:\LIBS2.4\LIBS\obj\x86\Debug\LIBS.pdb
+G:\LIBS2.4\LIBS\bin\Debug\x64\SQLite.Interop.dll
+G:\LIBS2.4\LIBS\bin\Debug\x86\SQLite.Interop.dll
+G:\LIBS2.4\LIBS\bin\Debug\LIBS.exe
+G:\LIBS2.4\LIBS\bin\Debug\LIBS.pdb
+G:\LIBS2.4\LIBS\bin\Debug\AvantesLibrary.dll
+G:\LIBS2.4\LIBS\bin\Debug\BSE.Windows.Forms.dll
+G:\LIBS2.4\LIBS\bin\Debug\DelayLib.dll
+G:\LIBS2.4\LIBS\bin\Debug\Settings.dll
+G:\LIBS2.4\LIBS\bin\Debug\System.Data.SQLite.dll
+G:\LIBS2.4\LIBS\bin\Debug\AvantesLibrary.pdb
+G:\LIBS2.4\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+G:\LIBS2.4\LIBS\bin\Debug\BSE.Windows.Forms.xml
+G:\LIBS2.4\LIBS\bin\Debug\DelayLib.pdb
+G:\LIBS2.4\LIBS\bin\Debug\Settings.pdb
+G:\LIBS2.4\LIBS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LIBS2.4\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+G:\LIBS2.4\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+G:\LIBS2.4\LIBS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LIBS2.4\LIBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Victoria\Desktop\LIBS2.4\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Victoria\Desktop\LIBS2.4三通道好使1.25基础\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.exe.config
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.exe
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\x64\SQLite.Interop.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\x86\SQLite.Interop.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.exe
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\AvantesLibrary.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\DelayLib.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\Settings.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\System.Data.SQLite.dll
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\AvantesLibrary.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.xml
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\DelayLib.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\bin\Debug\Settings.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+F:\研二上学期软件\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.exe.config
+E:\软件资料\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.exe
+E:\软件资料\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.pdb
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\x64\SQLite.Interop.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\x86\SQLite.Interop.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.exe
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.pdb
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\AvantesLibrary.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\DelayLib.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\Settings.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\System.Data.SQLite.dll
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\AvantesLibrary.pdb
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.xml
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\DelayLib.pdb
+E:\软件资料\LIBS2.4完成提交版\LIBS\bin\Debug\Settings.pdb
+E:\软件资料\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+E:\软件资料\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+E:\软件资料\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+E:\软件资料\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\LIBS.exe
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\LIBS.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\libs\Desktop\LIBS2.4完成提交版2.26\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\libs\Desktop\LIBS2.4最终版\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\libs\Desktop\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\LIBS.exe.config
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\LIBS.exe
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\LIBS.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\AvantesLibrary.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\AvantesLibrary.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\BSE.Windows.Forms.xml
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.Cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\x64\SQLite.Interop.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\x86\SQLite.Interop.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\LIBS.exe.config
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\LIBS.exe
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\LIBS.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\AvantesLibrary.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\BSE.Windows.Forms.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\DelayLib.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\Settings.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\System.Data.SQLite.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\AvantesLibrary.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\BSE.Windows.Forms.xml
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\DelayLib.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\Settings.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.AssemblyReference.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.CoreCompileInputs.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.CopyComplete
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.exe
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\LIBS\bin\Debug\CLIDelegate.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\x64\SQLite.Interop.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\x86\SQLite.Interop.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\LIBS.exe.config
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\LIBS.exe
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\LIBS.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\AvantesLibrary.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\BSE.Windows.Forms.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\DelayLib.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\Settings.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\System.Data.SQLite.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\CLIDelegate.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\AvantesLibrary.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\BSE.Windows.Forms.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\BSE.Windows.Forms.xml
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\DelayLib.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\Settings.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.AssemblyReference.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.Windows.BigImgFrm.resources
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.MainForm.resources
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.Windows.Properties.Resources.resources
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.GenerateResource.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.CoreCompileInputs.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.csproj.CopyComplete
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.exe
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\obj\x86\Debug\LIBS.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\MathNet.Numerics.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\LIBS\bin\Debug\MathNet.Numerics.xml

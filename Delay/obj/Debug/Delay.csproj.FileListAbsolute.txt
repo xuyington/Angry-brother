@@ -1,0 +1,160 @@
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Delay\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Delay\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Delay\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Delay\obj\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Delay\obj\Debug\DelayLib.pdb
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Delay\bin\Debug\DelayLib.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Delay\bin\Debug\DelayLib.pdb
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Delay\obj\Debug\ResolveAssemblyReference.cache
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Delay\obj\Debug\DelayLib.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Delay\obj\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Delay\bin\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Delay\bin\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Delay\obj\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Delay\obj\Debug\DelayLib.pdb
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Delay\bin\Debug\DelayLib.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Delay\bin\Debug\DelayLib.pdb
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Delay\obj\Debug\DelayLib.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Delay\obj\Debug\DelayLib.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Delay\bin\Debug\DelayLib.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Delay\bin\Debug\DelayLib.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Delay\obj\Debug\DelayLib.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Delay\obj\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Delay\bin\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Delay\bin\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Delay\obj\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Delay\obj\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\Delay\bin\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Delay\bin\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBS1.00\Delay\obj\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Delay\obj\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Delay\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Delay\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Delay\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Delay\obj\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Delay\obj\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Delay\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Delay\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Delay\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Delay\obj\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Delay\obj\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Delay\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Delay\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Delay\obj\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Delay\obj\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Delay\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Delay\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Delay\obj\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Delay\obj\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Delay\bin\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Delay\bin\Debug\DelayLib.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Delay\obj\Debug\DelayLib.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Delay\obj\Debug\DelayLib.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Delay\bin\Debug\DelayLib.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Delay\bin\Debug\DelayLib.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Delay\obj\Debug\ResolveAssemblyReference.cache
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Delay\obj\Debug\DelayLib.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Delay\obj\Debug\DelayLib.pdb
+H:\LIBS1.05P - 副本\Delay\bin\Debug\DelayLib.dll
+H:\LIBS1.05P - 副本\Delay\bin\Debug\DelayLib.pdb
+H:\LIBS1.05P - 副本\Delay\obj\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.05P - 副本\Delay\obj\Debug\DelayLib.dll
+H:\LIBS1.05P - 副本\Delay\obj\Debug\DelayLib.pdb
+M:\LIBS1.05P - 副本\Delay\bin\Debug\DelayLib.dll
+M:\LIBS1.05P - 副本\Delay\bin\Debug\DelayLib.pdb
+M:\LIBS1.05P - 副本\Delay\obj\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.05P - 副本\Delay\obj\Debug\DelayLib.dll
+M:\LIBS1.05P - 副本\Delay\obj\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Delay\bin\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Delay\bin\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Delay\obj\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Delay\obj\Debug\DelayLib.pdb
+H:\LIBS1.10\Delay\bin\Debug\DelayLib.dll
+H:\LIBS1.10\Delay\bin\Debug\DelayLib.pdb
+H:\LIBS1.10\Delay\obj\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.10\Delay\obj\Debug\DelayLib.dll
+H:\LIBS1.10\Delay\obj\Debug\DelayLib.pdb
+M:\LIBS1.10\Delay\bin\Debug\DelayLib.dll
+M:\LIBS1.10\Delay\bin\Debug\DelayLib.pdb
+M:\LIBS1.10\Delay\obj\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.10\Delay\obj\Debug\DelayLib.dll
+M:\LIBS1.10\Delay\obj\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Delay\bin\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Delay\bin\Debug\DelayLib.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Delay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Delay\obj\Debug\DelayLib.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Delay\obj\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Delay\bin\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Delay\bin\Debug\DelayLib.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Delay\obj\Debug\DelayLib.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Delay\obj\Debug\DelayLib.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\Delay\bin\Debug\DelayLib.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Delay\bin\Debug\DelayLib.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LIBS1.10P\Delay\obj\Debug\DelayLib.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Delay\obj\Debug\DelayLib.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Delay\bin\Debug\DelayLib.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Delay\bin\Debug\DelayLib.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Delay\obj\Debug\DelayLib.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Delay\obj\Debug\DelayLib.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Delay\bin\Debug\DelayLib.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Delay\bin\Debug\DelayLib.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Delay\obj\Debug\DelayLib.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Delay\obj\Debug\DelayLib.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Delay\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Delay\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Delay\obj\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Delay\obj\Debug\DelayLib.pdb
+G:\LIBS2.4\Delay\bin\Debug\DelayLib.dll
+G:\LIBS2.4\Delay\bin\Debug\DelayLib.pdb
+G:\LIBS2.4\Delay\obj\Debug\ResolveAssemblyReference.cache
+G:\LIBS2.4\Delay\obj\Debug\DelayLib.dll
+G:\LIBS2.4\Delay\obj\Debug\DelayLib.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\Delay\bin\Debug\DelayLib.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Delay\bin\Debug\DelayLib.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\Delay\obj\Debug\DelayLib.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Delay\obj\Debug\DelayLib.pdb
+E:\软件资料\LIBS2.4完成提交版\Delay\bin\Debug\DelayLib.dll
+E:\软件资料\LIBS2.4完成提交版\Delay\bin\Debug\DelayLib.pdb
+E:\软件资料\LIBS2.4完成提交版\Delay\obj\Debug\DelayLib.dll
+E:\软件资料\LIBS2.4完成提交版\Delay\obj\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Delay\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Delay\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Delay\obj\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Delay\obj\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Delay\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Delay\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Delay\obj\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Delay\obj\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Delay\bin\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Delay\bin\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Delay\obj\Debug\DelayLib.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Delay\obj\Debug\DelayLib.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Delay\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Delay\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Delay\obj\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Delay\obj\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Delay\bin\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Delay\bin\Debug\DelayLib.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Delay\obj\Debug\Delay.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Delay\obj\Debug\DelayLib.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Delay\obj\Debug\DelayLib.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Delay\bin\Debug\DelayLib.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Delay\bin\Debug\DelayLib.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Delay\obj\Debug\Delay.csproj.AssemblyReference.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Delay\obj\Debug\Delay.csproj.CoreCompileInputs.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Delay\obj\Debug\DelayLib.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Delay\obj\Debug\DelayLib.pdb

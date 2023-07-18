@@ -1,0 +1,371 @@
+D:\Work\Projects\csharp\LIBS0.4\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\Work\Projects\csharp\LIBS0.4\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\Work\Projects\csharp\LIBS0.4\Settings\bin\Debug\Settings.dll
+D:\Work\Projects\csharp\LIBS0.4\Settings\bin\Debug\Settings.pdb
+D:\Work\Projects\csharp\LIBS0.4\Settings\bin\Debug\System.Data.SQLite.dll
+D:\Work\Projects\csharp\LIBS0.4\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\Projects\csharp\LIBS0.4\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\csharp\LIBS0.4\Settings\obj\Debug\Settings.dll
+D:\Work\Projects\csharp\LIBS0.4\Settings\obj\Debug\Settings.pdb
+D:\Work\Projects\csharp\LIBS0.6\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\Work\Projects\csharp\LIBS0.6\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\Work\Projects\csharp\LIBS0.6\Settings\bin\Debug\Settings.dll
+D:\Work\Projects\csharp\LIBS0.6\Settings\bin\Debug\Settings.pdb
+D:\Work\Projects\csharp\LIBS0.6\Settings\bin\Debug\System.Data.SQLite.dll
+D:\Work\Projects\csharp\LIBS0.6\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\Projects\csharp\LIBS0.6\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\csharp\LIBS0.6\Settings\obj\Debug\Settings.dll
+D:\Work\Projects\csharp\LIBS0.6\Settings\obj\Debug\Settings.pdb
+D:\Work\Projects\csharp\LIBS0.7\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\Work\Projects\csharp\LIBS0.7\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\Work\Projects\csharp\LIBS0.7\Settings\bin\Debug\Settings.dll
+D:\Work\Projects\csharp\LIBS0.7\Settings\bin\Debug\Settings.pdb
+D:\Work\Projects\csharp\LIBS0.7\Settings\bin\Debug\System.Data.SQLite.dll
+D:\Work\Projects\csharp\LIBS0.7\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\Projects\csharp\LIBS0.7\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\csharp\LIBS0.7\Settings\obj\Debug\Settings.dll
+D:\Work\Projects\csharp\LIBS0.7\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.75\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.8\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.85\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS0.9\Settings\obj\Debug\Settings.pdb
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\bin\Debug\Settings.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\bin\Debug\Settings.pdb
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\bin\Debug\System.Data.SQLite.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\obj\Debug\Settings.dll
+D:\笔记本工作区\libs开发程序2013.05.24\LIBS\LIBS0.95\Settings\obj\Debug\Settings.pdb
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\bin\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\bin\Debug\Settings.pdb
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\obj\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS0.95\Settings\obj\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\bin\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\bin\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\obj\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\LIBS0.95.1\Settings\obj\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\bin\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\bin\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\obj\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\WindowsFormsApplication6\Settings\obj\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\bin\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\bin\Debug\Settings.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\obj\Debug\Settings.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\LIBS0.95.1.1\Settings\obj\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\bin\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\obj\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBS0.95.1.1\Settings\obj\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\bin\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\obj\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBS1.00\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00E - 副本\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.00P\Settings\obj\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\bin\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\bin\Debug\Settings.pdb
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\bin\Debug\System.Data.SQLite.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\obj\Debug\Settings.dll
+D:\工作区\笔记本工作区\libs开发程序\LIBS\LIBS1.05P\Settings\obj\Debug\Settings.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\bin\Debug\Settings.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\bin\Debug\Settings.pdb
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\bin\Debug\System.Data.SQLite.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\obj\Debug\ResolveAssemblyReference.cache
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\obj\Debug\Settings.dll
+D:\笔记本工作区\libs开发程序\LIBS\LIBS1.05P - 副本\Settings\obj\Debug\Settings.pdb
+H:\LIBS1.05P - 副本\Settings\bin\Debug\x64\SQLite.Interop.dll
+H:\LIBS1.05P - 副本\Settings\bin\Debug\x86\SQLite.Interop.dll
+H:\LIBS1.05P - 副本\Settings\bin\Debug\Settings.dll
+H:\LIBS1.05P - 副本\Settings\bin\Debug\Settings.pdb
+H:\LIBS1.05P - 副本\Settings\bin\Debug\System.Data.SQLite.dll
+H:\LIBS1.05P - 副本\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+H:\LIBS1.05P - 副本\Settings\obj\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.05P - 副本\Settings\obj\Debug\Settings.dll
+H:\LIBS1.05P - 副本\Settings\obj\Debug\Settings.pdb
+M:\LIBS1.05P - 副本\Settings\bin\Debug\x64\SQLite.Interop.dll
+M:\LIBS1.05P - 副本\Settings\bin\Debug\x86\SQLite.Interop.dll
+M:\LIBS1.05P - 副本\Settings\bin\Debug\Settings.dll
+M:\LIBS1.05P - 副本\Settings\bin\Debug\Settings.pdb
+M:\LIBS1.05P - 副本\Settings\bin\Debug\System.Data.SQLite.dll
+M:\LIBS1.05P - 副本\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+M:\LIBS1.05P - 副本\Settings\obj\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.05P - 副本\Settings\obj\Debug\Settings.dll
+M:\LIBS1.05P - 副本\Settings\obj\Debug\Settings.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\bin\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\bin\Debug\Settings.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\obj\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10\Settings\obj\Debug\Settings.pdb
+H:\LIBS1.10\Settings\bin\Debug\x64\SQLite.Interop.dll
+H:\LIBS1.10\Settings\bin\Debug\x86\SQLite.Interop.dll
+H:\LIBS1.10\Settings\bin\Debug\Settings.dll
+H:\LIBS1.10\Settings\bin\Debug\Settings.pdb
+H:\LIBS1.10\Settings\bin\Debug\System.Data.SQLite.dll
+H:\LIBS1.10\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+H:\LIBS1.10\Settings\obj\Debug\ResolveAssemblyReference.cache
+H:\LIBS1.10\Settings\obj\Debug\Settings.dll
+H:\LIBS1.10\Settings\obj\Debug\Settings.pdb
+M:\LIBS1.10\Settings\bin\Debug\x64\SQLite.Interop.dll
+M:\LIBS1.10\Settings\bin\Debug\x86\SQLite.Interop.dll
+M:\LIBS1.10\Settings\bin\Debug\Settings.dll
+M:\LIBS1.10\Settings\bin\Debug\Settings.pdb
+M:\LIBS1.10\Settings\bin\Debug\System.Data.SQLite.dll
+M:\LIBS1.10\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+M:\LIBS1.10\Settings\obj\Debug\ResolveAssemblyReference.cache
+M:\LIBS1.10\Settings\obj\Debug\Settings.dll
+M:\LIBS1.10\Settings\obj\Debug\Settings.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\bin\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\bin\Debug\Settings.pdb
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\obj\Debug\Settings.dll
+C:\Users\dingyuaoi\Desktop\LIBS1.10P\Settings\obj\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\bin\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\bin\Debug\Settings.pdb
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\obj\Debug\Settings.dll
+C:\Users\lenovo\Desktop\LIBRAS相关\LIBS1.10P\Settings\obj\Debug\Settings.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\bin\Debug\Settings.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\bin\Debug\Settings.pdb
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\obj\Debug\Settings.dll
+C:\Users\Administrator\Desktop\LIBS1.10P\Settings\obj\Debug\Settings.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\bin\Debug\Settings.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\bin\Debug\Settings.pdb
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\obj\Debug\Settings.dll
+C:\Users\Administrator\Desktop\便携式\LIBS1.10P\Settings\obj\Debug\Settings.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\bin\Debug\x64\SQLite.Interop.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\bin\Debug\x86\SQLite.Interop.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\bin\Debug\Settings.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\bin\Debug\Settings.pdb
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\obj\Debug\Settings.dll
+F:\研二下学期软件\LIBS各个版本软件\杨光\LIBS1.10P\Settings\obj\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\obj\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS 1.251.00p\Settings\obj\Debug\Settings.pdb
+G:\LIBS2.4\Settings\bin\Debug\x64\SQLite.Interop.dll
+G:\LIBS2.4\Settings\bin\Debug\x86\SQLite.Interop.dll
+G:\LIBS2.4\Settings\bin\Debug\Settings.dll
+G:\LIBS2.4\Settings\bin\Debug\Settings.pdb
+G:\LIBS2.4\Settings\bin\Debug\System.Data.SQLite.dll
+G:\LIBS2.4\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+G:\LIBS2.4\Settings\obj\Debug\ResolveAssemblyReference.cache
+G:\LIBS2.4\Settings\obj\Debug\Settings.dll
+G:\LIBS2.4\Settings\obj\Debug\Settings.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\bin\Debug\x64\SQLite.Interop.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\bin\Debug\x86\SQLite.Interop.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\bin\Debug\Settings.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\bin\Debug\Settings.pdb
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\bin\Debug\System.Data.SQLite.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\obj\Debug\Settings.dll
+F:\研二上学期软件\LIBS2.4完成提交版\Settings\obj\Debug\Settings.pdb
+E:\软件资料\LIBS2.4完成提交版\Settings\bin\Debug\x64\SQLite.Interop.dll
+E:\软件资料\LIBS2.4完成提交版\Settings\bin\Debug\x86\SQLite.Interop.dll
+E:\软件资料\LIBS2.4完成提交版\Settings\bin\Debug\Settings.dll
+E:\软件资料\LIBS2.4完成提交版\Settings\bin\Debug\Settings.pdb
+E:\软件资料\LIBS2.4完成提交版\Settings\bin\Debug\System.Data.SQLite.dll
+E:\软件资料\LIBS2.4完成提交版\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+E:\软件资料\LIBS2.4完成提交版\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+E:\软件资料\LIBS2.4完成提交版\Settings\obj\Debug\Settings.dll
+E:\软件资料\LIBS2.4完成提交版\Settings\obj\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\obj\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\obj\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4完成提交版\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\obj\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.25\Settings\obj\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\bin\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\bin\Debug\Settings.pdb
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\obj\Debug\Settings.dll
+C:\Users\Victoria\Desktop\LIBS2.4完成提交版2.26\Settings\obj\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\obj\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存\Settings\obj\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\bin\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\bin\Debug\Settings.pdb
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\bin\Debug\System.Data.SQLite.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\obj\Debug\Settings.csprojResolveAssemblyReference.cache
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\obj\Debug\Settings.dll
+C:\Users\libs\Desktop\LIBS2.4最终版之修改保存2.29\Settings\obj\Debug\Settings.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\bin\Debug\x64\SQLite.Interop.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\bin\Debug\x86\SQLite.Interop.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\bin\Debug\Settings.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\bin\Debug\Settings.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\bin\Debug\System.Data.SQLite.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\obj\Debug\Settings.csproj.CopyComplete
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\obj\Debug\Settings.dll
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\obj\Debug\Settings.pdb
+F:\LIBS\LIBS2.4最终版\LIBS2.4最终版\Settings\obj\Debug\Settings.csproj.AssemblyReference.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\bin\Debug\x64\SQLite.Interop.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\bin\Debug\x86\SQLite.Interop.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\bin\Debug\Settings.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\bin\Debug\Settings.pdb
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\bin\Debug\System.Data.SQLite.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\bin\Debug\System.Data.SQLite.Linq.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\obj\Debug\Settings.csproj.AssemblyReference.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\obj\Debug\Settings.csproj.CopyComplete
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\obj\Debug\Settings.dll
+D:\soft_of_spectrograph\分析软件参考\LIBS2.4最终版\Settings\obj\Debug\Settings.pdb
